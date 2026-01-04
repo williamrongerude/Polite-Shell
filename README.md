@@ -22,7 +22,7 @@ https://politeshell.onrender.com/
 ## How to Run
 
 ```bash
-cd PoliteShell
+cd Polite-Shell
 python politeshell.py
 
 ```
@@ -38,4 +38,5 @@ https://politeshell.onrender.com/
 - Must have Linux, Windows Subsystem for Linux, etc.
 
 ---
+
 
