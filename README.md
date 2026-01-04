@@ -3,13 +3,9 @@
 
 # PoliteShell
 
-A Linux/Bash style command line shell where you're forced to be nice
+A Linux/Bash style command line shell where you're forced to be nice. Rude requests are rejected while courteous ones will execute.
 
-Rude requests are rejected while courteous ones will execute
-
-Run politeshell.py to use the wrapper for your own system
-
-Or connect to the public server to see what others are changing:
+Run politeshell.py to use the wrapper for your own system, or connect to the public server to see what others are changing:
 
 https://politeshell.onrender.com/
 
@@ -42,5 +38,3 @@ https://politeshell.onrender.com/
 - Must have Linux, Windows Subsystem for Linux, etc.
 
 ---
-
-*Created by William Rongerude*
