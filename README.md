@@ -1,7 +1,7 @@
 <img src="assets/use2.png" width="600">
 
 
-# Polite-Shell
+# Polite Shell
 
 A Linux/Bash style command line shell where you're forced to be nice. Rude requests are rejected while courteous ones will execute.
 
