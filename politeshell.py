@@ -40,7 +40,7 @@ def main():
         if level == "basic_politeness":
             print("Accepting your command...")
         elif level == "good_politeness":
-            print("Thank you for being polite!")
+            print("Thank you for being polite.")
         else:
             print("Beautiful manners!")
 
