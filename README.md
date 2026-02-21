@@ -1,13 +1,13 @@
 <img src="assets/use2.png" width="600">
 
 
-# Polite Shell
+# Polite-Shell
 
-A Linux/Bash style command line shell where you're forced to be nice. Rude requests are rejected while courteous ones will execute.
+This shell requires that you be nice or use courteous language. Most messages with the sentiment of 'please' will work, such as saying 'can you do this', 'may you', 'please', etc.
 
-Run politeshell.py to use the wrapper for your own system, or connect to the public server to see what others are changing:
+Run politeshell.py to use this wrapper for your own system, or connect to the public server:
 
-https://politeshell.onrender.com/
+https://politeshell.pages.dev/
 
 ---
 
@@ -19,23 +19,17 @@ https://politeshell.onrender.com/
 
 ---
 
-## How to Run
-
 ```bash
 cd Polite-Shell
 python politeshell.py
 
 ```
 
-or use the deployed server:
-
-https://politeshell.onrender.com/
-
 ---
 
 ## Requirements
 
-- Must have Linux, Windows Subsystem for Linux, etc.
+- Need to have Linux, Windows Subsystem for Linux, etc.
 
 ---
 
