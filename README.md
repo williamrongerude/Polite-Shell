@@ -1,7 +1,7 @@
 <img src="assets/use2.png" width="600">
 
 
-# Polite-Shell
+# Polite Shell
 
 This shell requires that you be nice or use courteous language. Most messages with the sentiment of 'please' will work, such as saying 'can you do this', 'may you', 'please', etc.
 
