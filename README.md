@@ -29,7 +29,7 @@ python politeshell.py
 
 ## Requirements
 
-- Need to have Linux, Windows Subsystem for Linux, etc.
+- Must have Linux, Windows Subsystem for Linux, etc.
 
 ---
 
