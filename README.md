@@ -3,7 +3,7 @@
 
 # Polite Shell
 
-This shell requires that you be nice or use courteous language. Most messages with the sentiment of 'please' will work, such as saying 'can you do this', 'may you', 'please', etc.
+This is a linux wrapper that forces you to use courteous language. Messages with the sentiment of 'please' will work, such as saying 'can you do this', 'may you', 'please', etc.
 
 Run politeshell.py to use this wrapper for your own system, or connect to the public server:
 
